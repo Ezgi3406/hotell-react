@@ -24,3 +24,16 @@ body {
 .search-row input {
   margin-right: 10px;
 }
+.cards-Wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+footer {
+  justify-content: space-between;
+  background-color: aqua;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  justify-content: first baseline;
+}
